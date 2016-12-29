@@ -18,8 +18,8 @@ var generateEmbed = function() {
       "height": "480"
     },
     "domains": [
-      "http://localhost:3000",
-      "https://andrea-embed.herokuapp.com",
+      "http://localhost:3000/",
+      "https://andrea-embed.herokuapp.com/",
     ]
   };
 
