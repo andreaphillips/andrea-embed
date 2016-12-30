@@ -211,3 +211,8 @@ html, body {
 .mdl-demo .mdl-menu__container {
   z-index: 99;
 }
+.ot-embed-container {
+  width: 80vw;
+  height: calc(80vw*.6);
+  margin: 30px auto;
+}
